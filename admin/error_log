@@ -1,0 +1,9 @@
+[24-Nov-2004 11:59:41] PHP Fatal error:  Call to undefined function:  setlocations() in /home/odesia/public_html/v3/modules/xentgen/admin/adminusers.php on line 175
+[24-Nov-2004 12:00:15] PHP Fatal error:  Call to undefined function:  setlocation() in /home/odesia/public_html/v3/modules/xentgen/admin/adminusers.php on line 175
+[24-Nov-2004 12:00:47] PHP Fatal error:  Call to undefined function:  settypeposte() in /home/odesia/public_html/v3/modules/xentgen/admin/adminusers.php on line 179
+[24-Nov-2004 12:58:43] PHP Parse error:  parse error, unexpected '}' in /home/odesia/public_html/v3/modules/xentgen/class/xent_users.php on line 204
+[24-Nov-2004 12:58:48] PHP Parse error:  parse error, unexpected '}' in /home/odesia/public_html/v3/modules/xentgen/class/xent_users.php on line 204
+[24-Nov-2004 12:58:52] PHP Parse error:  parse error, unexpected '}' in /home/odesia/public_html/v3/modules/xentgen/class/xent_users.php on line 204
+[24-Nov-2004 12:58:57] PHP Parse error:  parse error, unexpected '}' in /home/odesia/public_html/v3/modules/xentgen/class/xent_users.php on line 204
+[24-Nov-2004 13:21:17] PHP Fatal error:  Call to undefined function:  setname() in /home/odesia/public_html/v3/modules/xentgen/admin/adminusers.php on line 47
+[08-Dec-2004 16:34:36] PHP Fatal error:  Cannot redeclare makenoyesarray() (previously declared in /home/odesia/public_html/v3/modules/xentgen/include/functions.php:16) in /home/odesia/public_html/v3/modules/xentgen/include/xentfunctions.php on line 100
